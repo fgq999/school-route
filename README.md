@@ -17,13 +17,13 @@
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/speech.png)<br/>
 ###Friends Chat
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/chat.png)<br/>
-　　Friends Chat section enables instant messaging, contact management and other functions between users , which makes the software also greatly enhanced interactivity<br/>
+　　Friends Chat section enables instant messaging, contact management and other functions between users , which makes the software also greatly enhanced interactivity.<br/>
 ###Posts Communities
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/community.png)<br/>
 　　Posts Community sector can provide users with a free share exchange platform. Users can share their campus life bit by bit in the community , can follow topics of interest , in the corresponding topic group can learn more information. In addition , each user may be concerned about other registered users to build a community fan base . Background administrator user will publish relevant content review , reasonable and orderly management of community policing .<br/>
 ###Life Assistant
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/helper.png)<br/>
-　　The purpose of Life Assistant sector is to provide students some of useful help in life , currently the sector has Lost and Found , Saying Love Wall , BUPT Official Website and Freshman Handbook, in a total of four functions , its scalability is very strong。<br/>
+　　The purpose of Life Assistant sector is to provide students some of useful help in life , currently the sector has Lost and Found , Saying Love Wall , BUPT Official Website and Freshman Handbook, in a total of four functions , its scalability is very strong.<br/>
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/lost.png)<br/>
 ##Download Link
 　　[E-guide Android mobile client download](http://ee.inbupt.com/test/hh/E-guide/E-guide.apk)
