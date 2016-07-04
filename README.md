@@ -3,15 +3,15 @@
 ##Project Description
 　　For college students, especially freshmen, how to quickly understand the layout of the campus map and circle the school, into college life as soon as possible, it has been a serious problem. E-guide Campus Life Guide (guide) Beijing University of Posts and Telecommunications Edition App, based on the Android platform, the development of the main campus navigation, postal friendly light chat, email Yuan community, life assistant four major functional blocks of the mobile software has BUPT unique service. Which App can easily to Beijing University of Posts and Telecommunications to provide students a user positioning, navigation, attractions, audio commentary and other LBS technology services, and through construction management back-end server, you can create a topic in the community, push messages, manage users, user communicate freely shared within the community. At the same time users can also chat with other friends exchange interaction between clients greatly enhanced. In addition, E-guide also provides a user-friendly categories such as Lost and Found, freshmen manual, BUPT official website of the entrance and other practical life convenient services for BUPT students. App product of this project is very practical and interesting, will greatly assist users, particularly freshmen groups into the Beijing University of Posts and Telecommunications, as they present a colorful college life, it will have a huge space for future application.
 ##Project Instruction
-　　目前该项目主要分为四大功能板块——校园导航、邮友轻聊、邮苑社区以及生活助手，分别集成于主界面中四个可滑动的分界面。用户使用该款软件须先进行注册登录，与后台服务器完成对接后方可使用所有功能。各个板块具体功能较多，用户可根据自身需求有选择地进行使用。<br/><br/>　　接下来将对该项目的各个界面做简要说明：<br/>
-###登录主界面
+　　Currently, the project is divided into four functional parts - Campus Navigation, Friends' Chat, Post Communities and Life Assistant , it was integrated into the main interface, four slidable interface . The software user must first log in to register in order to use all the functions with back-end server to complete the docking. More specific functions of each section , the user can optionally be used according to their own needs . <br/> <br/> then we will do the various interface brief description of the project.<br/>
+###Login Main Interface
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/login.png)<br/>
-　　用户正确输入用户名和密码后方可登录，无账号者可先进行注册。<br/>
-　　成功登录后将跳转到用户主界面。<br/>
-###校园导航
+　　Only by correctly entering a user name and password, the user can log in . Those who have no account should register first。<br/>
+　　After a successful login, this App will jump to the main user interface .<br/>
+###Campus Navigation
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/guide.png)<br/>
-　　校园导航主界面目前有两个功能图标——自动定位和语音解说。<br/>
-　　点击自动定位功能图标，Ａｐｐ会对当前用户所在地理位置进行定位，并跳转到地图界面，可实现景点提示、导航、路径搜索、ＰＯＩ查询等ＬＢＳ服务。<br/>
+　　In Campus Navigation interface, there are currently two main function icons - Automatic Positioning and Audio Commentary .<br/>
+　　Click for automatic positioning function icons , the App will locate itself based on the current user's physical location , and jump to the Map screen , enabling Attractions Reminding , navigation, route search , POI query and other LBS services .<br/>
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/alert.png)<br/>　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/search.png)<br/>
 　　语音解说则为学校的一些主要景点配备了相应的文字和图片进行说明，用户可使用语音解说功能让手机播报相应文字内容，趣味性十足。<br/>
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/speech.png)<br/>
