@@ -17,7 +17,7 @@
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/speech.png)<br/>
 ###邮友轻聊
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/chat.png)<br/>
-　　　　　　邮友轻聊板块可实现用户间的即时通讯、好友管理等功能，也使得该款软件的交互性大大增强。<br/>
+　　邮友轻聊板块可实现用户间的即时通讯、好友管理等功能，也使得该款软件的交互性大大增强。<br/>
 ###邮苑社区
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/community.png)<br/>
 　　邮苑社区板块可为用户提供一个自由分享交流的平台。用户可在社区内分享自己校园生活中的点点滴滴，还可以关注感兴趣的话题，在相应话题组里可以了解到更多相关信息。此外，每个用户都可以被其他注册用户关注从而构建一个社区粉丝群。后台管理员会对用户发布的有关内容进行审核，合理有序地管理社区秩序。<br/>
