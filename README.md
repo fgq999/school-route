@@ -26,4 +26,4 @@
 　　生活助手板块的目的是为学生提供一些生活中实用的功能，目前该板块已有失物招领、表白墙、北邮官网、新生入学手册四项功能，可拓展性较强。<br/>
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/lost.png)<br/>
 ##下载地址
-　　[E-guide下载](http://ee.inbupt.com/test/hh/E-guide/E-guide.apk)
+　　[E-guide安卓手机客户端下载](http://ee.inbupt.com/test/hh/E-guide/E-guide.apk)
