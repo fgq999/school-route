@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\libs\Msc.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8ef016c8697ebba92ddf06c812e4415bdc30ed8">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_74b4e8d0bb0093076287b5478bfda9f955b545e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_sdk_login.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cfceb2d2b6270a31f7a80df82a0048fa708c58be">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_sdk_login_5582ce1154e92ced902afe938f76c555d3a4418f\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_sdk_core.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3bc7ac56e73f8b74ad7d88e83d79fbd9d5bac1f">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_sdk_core_5f88fefa5199d3354587a2a026dfc4159257301e\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\bmobIM_SDK\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="086f133ab0a3b85014650a74bf000a4a25a8c18b">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\BaiduLBS_Android_7c948d55181aca41de000ba9d68ed307d61a7a25\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\libs\photoview-library-1.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\2\photoview-library-1.2.2_f8321bd84114eb9b6bd37f184acd3f92f05b78d6\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8288b074739396cf89e43e00f452c2aa79742fec">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_4dd47b9f90593d0798cc451c60e457c56c4fbd82\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92bb3fcbcd2a36dfa0191c1774abfeaf3526d56b">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_1_d25909425a629e0f90b59c2b7dfe471a153274cc\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\bmobIM_SDK\unspecified\jars\libs\BmobSDK_V3.4.6_0304.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4e1199d379223d61f4f48c30d39b1edc2825dfb3">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\BmobSDK_V3.4.6_0304_1c927703833cc704b6906ca767d30d73539188ba\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_sdk_ui_main.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aaa645bebe8c6c042211e94b3cec25a6cfde3e9">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_sdk_ui_main_50b290edc45c2b290faf72f0440714b162965bf6\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="06f8f7390be4a6e37c1dc60a85f8ac1387a00385">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_1_2e36271c2d9dcd4d09c821ff987d04921214bb44\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="993cff96f38a7ae1e239295fcddaf1eb45ee7bf5">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v7-recyclerview_a838a531369f987347f9fc0b7365f2d8ae051ae9\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\libs\picasso-2.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.2.0_92fe1b7f38c6e49b5cca6f39d2b110a40554f305\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e8c224b41ec235cf4a084e2852e6685cf33ec04f">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.1.3_8790821e39326855d7a6896ac719ae7bdba0281e\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1e41fdc716815652e4668a4e44eeb7b4e70cd31d\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_sdk_db.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dcadd0b5cbcdf64eda84da177d935011add17de9">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_sdk_db_cc4ced5f2aba5ce9e17a66c80fca2f896cad44cb\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a78b8f7690c7d6154683eb5ca42339874fc05dd4">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d597837edc2c2e0832c110a4d728bf4ba544e1c8\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cad6a1353a9d39082f2ff2b3bdb9cb43a38f0783">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.4_815b6d4ed913c29e2a544acaad3e83b09e977f5b\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\com.umeng.message.lib_v2.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a40fff05a7860150494631e025470d08f45339c">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\com.umeng.message.lib_v2.2.0_d8c236244b9216b9c40974a098d2b0b2c512ac83\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\AS\SDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_f6ce1552f40a22a6a6b2c43494659b9560769f12\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\Android_Location_V1.3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4dfce8c946f1e93a299c875c3b1e8d5bad36a3b">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\Android_Location_V1.3.2_19a0ef84a0172d7eff6dad62a2b2d1111289c8a0\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_location.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b0330e55975c9d1b351769ee0adf8e6ded26fe29">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_location_41f64d5737fd960f2bf897f5940fe0b3e71369fb\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d705cdd20ab6a9fa00d67e82823288f106b80ccb">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_fbbc223ac48f7c46fad9afaf5fd6f2eb383c2784\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_push.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e615a03ff1defb82da959b3e225726769383f2cb">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_push_badae5e51fa7702a614b27b71f7ca5078fdf2895\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_c7dc983e4941c9b14e90e46befb43ea3797ab375\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_sdk_ui_weibo.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="299f8734bf1bdbf2c226fe5b3aef94b6582aedb3">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_sdk_ui_weibo_686e5c7e283bba0de473e62ec0b749a5bbb52cd4\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\bmobIM_SDK\unspecified\jars\libs\Bmob_Push_V0.8beta_20160315.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="089333bdee1959c0f3d89e228faaf432c3c0f29e">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\Bmob_Push_V0.8beta_20160315_37544450d113a21cba912632374f0ac3ee2dcc0e\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8b16cc9f89e7da69716cbef3d00cdb2d431e9f3">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_4cc05cbb58f12369dbacafa11fdf97eb083e1dc4\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c82b8b5b87d1c5c78b0832a598238db6c2895021">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9a14d159ec0704779e5b4f625dcbec32a2ecf02b\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_sdk_ui_discuss.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bb8d2dda79f3ca3c05e88a38541bec8c0b320e3">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_sdk_ui_discuss_b462082ed7e23ce17775551f445db41e369be2b1\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\activeandroid.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="993034aec11ebeacbb5877b1316bdba2986eae57">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\activeandroid_bd173199ba9bc96f0534fc92e7b2e8aca96ac3e5\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02731aec38bcbec16e0e2a7d784a5fa2c981a801">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_2_0928ae66edb0cd463990f9743264d719b2be81ec\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c96d537a215cb7f8172aecdc5465390df4d03ed">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_c6cde1e8d5874e8f80dc33859b9224872798ac97\classes.dex" />
+    </item>
+    <item
+        jar="D:\JavaProject\workspace2\EguideA\app\build\intermediates\exploded-aar\EguideA\umeng_community_library_project\unspecified\jars\libs\umeng_community_share.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="382db670d21ce65a9f8837b1fa4de49fbf6dca01">
+        <dex dex="D:\JavaProject\workspace2\EguideA\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_community_share_de6d7817592452b13b3351a2ff6a25b4632fbb27\classes.dex" />
+    </item>
+
+</items>

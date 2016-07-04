@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bgd3.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-xxhdpi\\bgd3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bgd3.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-xxhdpi\\bgd3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    }
+]

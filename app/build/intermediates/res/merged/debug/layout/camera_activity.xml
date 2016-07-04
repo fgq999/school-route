@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#00000000"
+    android:gravity="bottom" >
+  	  
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom" > 				
+     <Button
+        android:id="@+id/btnThrow"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="分享"
+        android:background="#97c732" />
+		<LinearLayout
+		    android:id="@+id/cameraline"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentLeft="true"
+		    android:layout_above="@id/btnThrow"
+		    android:orientation="horizontal"
+		    android:background="#000000" >
+
+		    <Button
+		        android:id="@+id/btncancel"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:background="@drawable/pai2" />
+
+		    <Button
+		        android:id="@+id/btnTakePicture"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:background="@drawable/pai1" />
+
+		    <Button
+		        android:id="@+id/btnSavePic"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:background="@drawable/pai3" />
+
+		</LinearLayout>
+		<SurfaceView 
+ 		    android:layout_gravity="center"
+	    	android:id="@+id/sfvCamera"
+	    	android:visibility="visible"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:layout_above="@id/cameraline"
+	    	>
+		</SurfaceView>
+		<TextView android:textSize="20sp" 
+    		android:textColor="#ffff0000" 
+    		android:id="@+id/previewinfo"  
+    		android:layout_width="wrap_content" 
+    		android:layout_height="wrap_content" 
+    		android:text="开始预览"    	    			
+    		android:layout_centerHorizontal="true" 
+    		android:layout_centerVertical="true" />
+	</RelativeLayout>
+    
+
+</RelativeLayout>

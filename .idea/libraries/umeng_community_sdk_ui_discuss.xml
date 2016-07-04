@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="umeng_community_sdk_ui_discuss">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/umeng_community_library_project/libs/umeng_community_sdk_ui_discuss.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

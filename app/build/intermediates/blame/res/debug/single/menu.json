@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\locate.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\menu\\locate.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\share.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\menu\\share.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\locate.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\menu\\locate.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\share.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\menu\\share.xml"
+    }
+]

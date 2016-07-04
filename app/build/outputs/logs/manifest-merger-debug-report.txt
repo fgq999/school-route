@@ -1,0 +1,755 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:2:1-474:12
+	package
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:7:22-81
+supports-screens
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:8:5-13:37
+	android:largeScreens
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:9:9-36
+	android:normalScreens
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:10:9-37
+	android:resizeable
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:12:9-34
+	android:anyDensity
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:13:9-34
+uses-sdk
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:14:5-16:41
+MERGED from [Eguide:umeng_community_library_project:unspecified] D:\JavaProject\workspace2\Eguide\app\build\intermediates\exploded-aar\Eguide\umeng_community_library_project\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] D:\JavaProject\workspace2\Eguide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [Eguide:bmobIM_SDK:unspecified] D:\JavaProject\workspace2\Eguide\app\build\intermediates\exploded-aar\Eguide\bmobIM_SDK\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:16:9-38
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:15:9-35
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:17:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.INTERNET
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:23:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:24:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:25:5-85
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:25:22-82
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:27:22-70
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:28:5-70
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:28:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:29:5-78
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:29:22-76
+permission#cn.bmob.permission.push
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:31:5-34:18
+	android:protectionLevel
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:33:9-41
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:32:9-47
+uses-permission#cn.bmob.permission.push
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:35:5-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:35:22-60
+uses-permission#android.permission.VIBRATE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:37:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:42:5-68
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:42:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:45:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:46:5-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:46:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:56:5-57:23
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:56:22-65
+uses-permission#android.permission.ACCESS_GPS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:58:5-69
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:58:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:59:5-72
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:59:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:60:5-69
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:60:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:62:5-67
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:62:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:64:5-68
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:64:22-65
+uses-permission#android.permission.CAMERA
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:65:5-66:23
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:65:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:71:5-81
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:71:22-78
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:75:5-76:23
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:75:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:77:5-80
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:77:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:86:5-59
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:86:19-57
+uses-feature#android.hardware.camera.auto_focus
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:88:5-70
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:88:19-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:105:5-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:105:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:106:5-81
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:106:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:107:5-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:107:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:108:5-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:108:22-76
+application
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:118:5-472:19
+MERGED from [Eguide:umeng_community_library_project:unspecified] D:\JavaProject\workspace2\Eguide\app\build\intermediates\exploded-aar\Eguide\umeng_community_library_project\unspecified\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:23.3.0] D:\JavaProject\workspace2\Eguide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [Eguide:bmobIM_SDK:unspecified] D:\JavaProject\workspace2\Eguide\app\build\intermediates\exploded-aar\Eguide\bmobIM_SDK\unspecified\AndroidManifest.xml:11:5-16:19
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:122:9-41
+	android:allowBackup
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:120:9-35
+	android:icon
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:121:9-45
+	android:largeHeap
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:123:9-33
+	android:theme
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:124:9-40
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:119:9-52
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:125:9-127:56
+	android:value
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:127:13-53
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:126:13-52
+activity#com.im_bmob.ui.SplashActivity3
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:128:9-135:20
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:130:13-45
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:129:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:131:13-134:29
+action#android.intent.action.MAIN
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:132:17-68
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:132:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:133:17-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:133:27-74
+activity#com.tongxin.speech.SpeechActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:136:9-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:136:19-67
+activity#com.tongxin.speech.SpeechMenu
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:137:9-75
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:137:19-63
+activity#com.example.update.update
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:138:9-71
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:138:19-59
+activity#com.tongxin.map.MapActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:139:9-73
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:139:19-61
+activity#com.example.sortlistview.SearchActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:140:9-85
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:140:19-73
+activity#com.tongxin.e_guide.MainActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:141:9-145:25
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:143:13-49
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:144:13-74
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:142:13-60
+activity#com.yanis.ui.GuideActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:146:9-72
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:146:19-60
+activity#com.example.sortlistview.Weiso
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:147:9-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:147:19-64
+activity#com.lostfound.Lost_Found_Activity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:148:9-152:20
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:150:13-45
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:149:13-61
+activity#com.lostfound.AddActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:153:9-157:20
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:156:13-49
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:155:13-45
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:154:13-53
+activity#com.lostfound.Biaobai
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:158:9-162:20
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:160:13-59
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:159:13-49
+activity#com.lostfound.AddActivity1
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:163:9-166:20
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:165:13-56
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:164:13-54
+service#com.baidu.location.f
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:168:9-176:19
+	android:enabled
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:170:13-35
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:171:13-38
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:169:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:172:13-175:29
+action#com.baidu.location.service_v2.2
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:173:17-174:26
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:173:25-71
+activity#com.community.custom.CustonLoginActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:178:9-77
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:178:19-74
+activity#com.umeng.comm.ui.activities.FindActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:183:9-186:70
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:186:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:185:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:184:13-69
+activity#com.umeng.comm.ui.activities.UserInfoActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:189:9-192:70
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:192:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:191:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:190:13-73
+activity#com.umeng.comm.ui.activities.TopicDetailActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:194:9-197:70
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:197:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:196:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:195:13-76
+activity#com.umeng.comm.ui.activities.FeedsActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:199:9-204:70
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:203:13-49
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:204:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:202:13-63
+	android:alwaysRetainTaskState
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:201:13-49
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:200:13-70
+activity#com.umeng.comm.ui.activities.RelativeUserActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:207:9-211:70
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:210:13-49
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:211:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:209:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:208:13-77
+activity#com.umeng.comm.ui.activities.PostFeedActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:214:9-218:69
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:217:13-36
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:218:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:216:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:215:13-73
+activity#com.umeng.comm.ui.activities.ForwardActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:221:9-224:70
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:224:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:223:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:222:13-72
+activity#com.umeng.comm.ui.activities.SearchActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:226:9-229:70
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:229:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:228:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:227:13-71
+activity#com.umeng.comm.ui.activities.FeedDetailActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:232:9-235:70
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:235:13-67
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:234:13-63
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:233:13-75
+activity#com.umeng.comm.ui.activities.SettingActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:238:9-81
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:238:19-78
+activity#com.umeng.comm.ui.activities.GuideActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:241:9-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:241:19-76
+activity#com.umeng.comm.ui.activities.LikeUsersActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:244:9-83
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:244:19-80
+activity#com.umeng.comm.ui.activities.LocationFeedActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:247:9-86
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:247:19-83
+activity#com.umeng.comm.ui.activities.BrowserActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:249:9-251:77
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:251:13-74
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:250:13-72
+activity#com.umeng.comm.ui.activities.AlbumActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:253:9-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:253:19-76
+activity#com.umeng.comm.ui.activities.FollowedTopicActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:254:9-87
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:254:19-84
+activity#com.umeng.comm.ui.activities.NotificationActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:255:9-86
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:255:19-83
+activity#com.umeng.comm.ui.activities.NewMsgActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:256:9-80
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:256:19-77
+activity#com.umeng.comm.ui.imagepicker.PhotoSelectorActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:263:9-88
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:263:19-85
+activity#com.umeng.comm.ui.imagepicker.PhotoPreviewActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:264:9-87
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:264:19-84
+activity#com.umeng.community.login.LoginActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:267:9-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:267:19-73
+activity#com.umeng.socialize.view.ShareActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:272:9-278:80
+	android:launchMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:275:13-44
+	android:noHistory
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:276:13-37
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:278:13-68
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:274:13-57
+	android:theme
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:277:13-50
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:273:13-66
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:281:9-293:20
+	android:launchMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:283:13-44
+	android:noHistory
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:284:13-37
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:282:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:285:13-292:29
+action#android.intent.action.VIEW
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:286:17-69
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:286:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:288:17-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:288:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:289:17-78
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:289:27-75
+data
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:291:17-60
+	android:scheme
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:291:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:294:9-297:75
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:296:13-49
+	android:theme
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:297:13-72
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:295:13-69
+activity#com.community.wxapi.WXEntryActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:300:9-305:75
+	android:screenOrientation
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:304:13-49
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:303:13-36
+	android:configChanges
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:302:13-74
+	android:theme
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:305:13-72
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:301:13-63
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:308:9-311:48
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:311:13-36
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:310:13-37
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:309:13-80
+receiver#com.umeng.message.SystemReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:312:9-326:20
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:314:13-36
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:313:13-60
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:315:13-317:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:316:17-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:316:25-76
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:318:13-320:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:319:17-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:319:25-76
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:321:13-325:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:322:17-80
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:322:25-77
+receiver#com.umeng.message.MessageReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:327:9-333:20
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:329:13-36
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:328:13-61
+intent-filter#org.agoo.android.intent.action.RECEIVE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:330:13-332:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:331:17-81
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:331:25-78
+receiver#com.umeng.message.ElectionReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:334:9-342:20
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:336:13-36
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:335:13-62
+intent-filter#org.agoo.android.intent.action.ELECTION_RESULT_V4+umeng
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:337:13-341:29
+action#org.agoo.android.intent.action.ELECTION_RESULT_V4
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:338:17-92
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:338:25-89
+category#umeng
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:340:17-50
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:340:27-47
+receiver#com.umeng.message.RegistrationReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:343:9-349:20
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:345:13-37
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:344:13-66
+intent-filter#com.umeng.community.example.intent.action.COMMAND
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:346:13-348:29
+action#com.umeng.community.example.intent.action.COMMAND
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:347:17-92
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:347:25-89
+receiver#com.umeng.message.BootBroadcastReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:350:9-354:20
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:350:19-73
+service#com.umeng.message.UmengService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:356:9-372:19
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:360:13-36
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:359:13-40
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:358:13-36
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:357:13-58
+intent-filter#com.umeng.community.example.intent.action.START
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:361:13-363:29
+action#com.umeng.community.example.intent.action.START
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:362:17-90
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:362:25-87
+intent-filter#com.umeng.community.example.intent.action.COCKROACH
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:364:13-366:29
+action#com.umeng.community.example.intent.action.COCKROACH
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:365:17-94
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:365:25-91
+intent-filter#org.agoo.android.intent.action.PING_V4+umeng
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:367:13-371:29
+action#org.agoo.android.intent.action.PING_V4
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:368:17-81
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:368:25-78
+service#com.umeng.message.UmengIntentService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:373:9-375:39
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:375:13-36
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:374:13-64
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:376:9-386:19
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:379:13-36
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:378:13-36
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:377:13-79
+intent-filter#org.android.agoo.client.MessageReceiverService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:380:13-382:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:381:17-89
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:381:25-86
+intent-filter#org.android.agoo.client.ElectionReceiverService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:383:13-385:29
+action#org.android.agoo.client.ElectionReceiverService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:384:17-90
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:384:25-87
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:388:9-82
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:388:18-79
+meta-data#UMENG_APPKEY
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:399:9-401:21
+	android:value
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:400:13-53
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:399:20-47
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:402:9-405:21
+	android:value
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:404:13-61
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:403:13-48
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:407:9-409:64
+	android:value
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:409:13-61
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:408:13-50
+activity#com.im_bmob.ui.LoginActivity3
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:411:9-66
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:411:19-63
+activity#com.im_bmob.ui.LocationActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:413:9-68
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:413:19-65
+activity#com.im_bmob.ui.BlackListActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:415:9-69
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:415:19-66
+activity#com.im_bmob.ui.ImageBrowserActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:417:9-72
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:417:19-69
+activity#com.im_bmob.ui.AddFriendActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:419:9-421:67
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:421:13-64
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:420:13-60
+activity#com.im_bmob.ui.NewFriendActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:423:9-69
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:423:19-66
+activity#com.im_bmob.ui.NearPeopleActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:424:9-70
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:424:19-67
+activity#com.im_bmob.ui.UpdateInfoActivity3
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:426:9-71
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:426:19-68
+activity#com.im_bmob.ui.ChatActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:428:9-430:76
+	android:windowSoftInputMode
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:430:13-73
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:429:13-55
+activity#com.im_bmob.ui.SetMyInfoActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:432:9-69
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:432:19-66
+activity#com.im_bmob.ui.RegisterActivity
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:434:9-435:62
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:435:13-59
+service#cn.bmob.push.lib.service.PushService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:437:9-446:19
+	android:process
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:442:13-43
+	android:label
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:440:13-40
+	android:exported
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:439:13-36
+	android:permission
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:441:13-57
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:438:13-64
+intent-filter#cn.bmob.push.lib.service.PushService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:443:13-445:29
+action#cn.bmob.push.lib.service.PushService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:444:17-79
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:444:25-76
+receiver#cn.bmob.push.PushReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:448:9-457:20
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:448:19-59
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:449:13-456:29
+	android:priority
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:449:28-57
+action#android.intent.action.USER_PRESENT
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:453:17-77
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:453:25-74
+receiver#com.im_bmob.MyMessageReceiver
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:458:9-462:20
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:458:19-63
+intent-filter#cn.bmob.push.action.MESSAGE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:459:13-461:29
+action#cn.bmob.push.action.MESSAGE
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:460:17-70
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:460:25-67
+service#cn.bmob.im.poll.BmobPollService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:467:9-471:19
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:467:18-64
+intent-filter#cn.bmob.im.service.BmobPollService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:468:13-470:29
+action#cn.bmob.im.service.BmobPollService
+ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:469:17-76
+	android:name
+		ADDED from D:\JavaProject\workspace2\Eguide\app\src\main\AndroidManifest.xml:469:25-74

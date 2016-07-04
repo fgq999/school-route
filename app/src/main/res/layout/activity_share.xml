@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_main"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="要发送的Url"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/et_url"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text|textUri"
+        android:textColor="@android:color/black"
+        android:text="http://www.e-guide.com" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="要发送的内容"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/et_summary"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0"
+        android:inputType="textMultiLine"
+        android:textColor="@android:color/black"
+        android:text="重返母校，分享一下我的足迹吧！！  http://www.e-guide.com" />
+	<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="分享照片："
+        android:textColor="@android:color/black" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_marginLeft="20dp"
+    		android:layout_marginRight="10dp"
+            android:id="@+id/cb_post_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+				/>
+        <CheckBox
+            android:id="@+id/cb_post_img2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="发送图片"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+ 
+
+    <Button
+        android:id="@+id/btn_share_to_xinlang"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="20dp"
+        android:text="分享到新浪微博" />
+    <Button
+        android:id="@+id/btn_clear_credential"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="10dp"
+        android:text="清空登录信息" />
+
+
+
+
+</LinearLayout>

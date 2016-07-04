@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\color\\umeng_comm_toogle_color.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\color\\umeng_comm_toogle_color.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\color\\umeng_comm_topic_toogle_color.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\color\\umeng_comm_topic_toogle_color.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\color\\umeng_comm_location_text.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\color\\umeng_comm_location_text.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\color\\umeng_comm_topic_toogle_color.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\color\\umeng_comm_topic_toogle_color.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\color\\umeng_comm_location_text.xml",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\color\\umeng_comm_location_text.xml"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\color\\umeng_comm_toogle_color.xml",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\color\\umeng_comm_toogle_color.xml"
+    }
+]

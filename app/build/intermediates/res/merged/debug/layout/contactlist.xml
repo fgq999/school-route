@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/card_grouping_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="0.0dip" >
+
+        <ListView
+            android:id="@+id/ListView_catalog"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp" 
+            android:layout_weight="1" >
+        </ListView>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+            android:orientation="horizontal"
+            android:padding="3dip" >
+
+            <com.example.checklistdemo.HorizontalListView
+                android:id="@+id/imgList"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/makesureBtn"
+                android:layout_width="100dp"
+                android:layout_height="35dp"
+                android:layout_gravity="right|center_vertical"
+                android:text="确定" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

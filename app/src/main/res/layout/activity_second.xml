@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="myapplication.myapplication.SecondActivity">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:text="预      览"
+        android:background="#0aeaf0"
+        />
+    <LinearLayout
+        android:id="@+id/yulan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+    <Button
+        android:id="@+id/weixin"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="微信"
+        android:layout_marginRight="20dp"
+        android:layout_weight="1"
+        android:background="#0aeaf0"/>
+    <Button
+        android:id="@+id/weibo"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="微博"
+        android:layout_weight="1"
+        android:background="#0aeaf0"/>
+    </LinearLayout>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="42dp"
+        android:layout_above="@id/yulan"
+        android:id="@+id/trans"/>
+</RelativeLayout>
+
+
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="activeandroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/umeng_community_library_project/libs/activeandroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">E-guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Eguide</string>
+	<string name="mainTitle">Eguide:欣赏风景,分享美景</string>
+	<string name="galleryphoto">欣赏风景,分享美景</string>
+	<string name="huo">Eguide</string>
+
+	<string name="takePic">拍照</string>
+	<string name="share">分享</string>
+	<string name="camera_title">拍照</string>
+	<string name="share_title">文件分享</string>
+	<string name="btnTakePicture">拍照</string>
+	<string name="back">返回</string>
+	<string name="btnSavePic">保存</string>
+	<string name="SDCARD_MEDIA_UNMOUNTED"></string>
+	<string name="upload">上传</string>
+	<string name="ok">确定</string>
+	<string name="cancel">取消</string>
+	<string name="preview">预览</string>
+	<string name="next">下一个</string>
+	<string name="previous">前一个</string>
+	<string name="delete">删除</string>
+	<string name="delConfirm">您确定要删除该文件吗?</string>
+	<string name="delSuccess">删除成功!</string>
+	<string name="delFailure">删除失败!</string>
+	<string name="audioRecord">录音</string>
+	<string name="videoRecord">录像</string>
+	<string name="pics">照片</string>
+	<string name="audios">音频</string>
+	<string name="videos">视频</string>
+	<string name="throwImg">丢弃</string>
+    <!-- 主菜单 -->
+    <string name="menu_option">选项</string>
+    <string name="check_update">检查更新</string>
+    <string name="login">登陆</string>
+    <string name="exit">退出</string>
+ 	<string name="sns">微博分享</string>
+    
+ 	<!-- 地图菜单 -->
+    <string name="search_place">搜索</string>
+	<string name="show_route">显示轨迹</string>
+    <string name="hide_route">隐藏轨迹</string>
+    <string name="shot">拍照</string>
+    <string name="description"></string>
+ 	
+ 	<!-- 语音文本 -->
+	<string name="String_buttonPlay">语音解说</string>
+    <string name="String_buttonPause">暂停解说</string> 
+    <string name="desLibarary">北京邮电大学具有“信息黄埔”的美誉，而其图书馆馆藏资源丰富，具有鲜明的邮电通信和电子学专业特色，尤其是世界上一些享有盛誉的电信专业书刊收藏较全，在全国堪称第一。其中，图书馆前的网络七层协议雕塑更是北邮通信特色的极好体现。</string>    
+	<string name="DesMainBuilding">北京邮电大学主楼位于校园正中心，整座建筑高耸恢弘，是校内较早落成的综合性教学楼，涵盖各学院多学科实验室，楼前的喷泉广场也是学生们娱乐休闲的好去处。</string>
+	<string name="desGym">北京邮电大学体育馆坐落于东门附近，毗邻风雨操场和游泳馆，是北邮师生锻炼身体的主要场所。馆内设有健身房、羽毛球场和室内篮球场，设施齐全，装修时尚，每天都有许多学生在这里进行体育锻炼。</string>
+    <string name="desStudentsDorm10">北京邮电大学学十公寓位于学校北门，是校内最新建成的现代化男生宿舍楼。全楼房间数目众多，主要安排研究生入住，很好地缓解了校内住宿紧张的情况。</string>   
+	<string name="desNewStudentsDiningRoom">北京邮电大学新食堂是学校为解决学生吃饭难问题而最新建成的综合性建筑。全楼共四层，风味各不相同，其中三楼餐厅是学生校内聚餐的好去处，四楼的清真餐厅经常会放映电影，深受学生欢迎。</string>
+	<string name="desXiaoBaiLou">北京邮电大学行政楼是学校领导及各大职能部门的办公场所，因其外观为白色，被学生们称为“小白楼”。</string>
+    <string name="des_jiao3">北京邮电大学教三楼是北邮的地标性建筑之一，是目前校内最新落成的教学楼。全楼共十层，主要承担本科生及研究生的教学任务，同时也是部分国家级重点实验室的办公场所。楼内宽敞明亮，设施齐全，扶梯和观光电梯是一大特色。有趣的是，教三楼前校训石旁的瓷砖以摩斯电码的方式编译了“敬业乐群，厚德博学”的校训。图为新旧教三楼对比。</string>
+
+	<string name="desBuptHotel">北邮科技大厦是北京邮电大学建成的涉外酒店，总建筑面积17000平方米，拥有各类客房，房间内设施齐备、方便。店内设有各种类型的会议室、演播厅、多媒体教室可以满足客人培训、商务等要求。</string>
+	<string name="desDorm11">北京邮电大学学十一公寓临近北邮科技大厦，是本科生女生公寓。</string>
+	<string name="desDorm9">北京邮电大学学九公寓。</string>
+	<string name="desDormForeigner">北京邮电大学留学生公寓是提供给留学生居住的公寓。</string>
+	<string name="desDorm13">北京邮电大学学十三公寓。</string>
+	<string name="desDorm1">北京邮电大学学一公寓。</string>
+	<string name="desDorm2">北京邮电大学学二公寓。</string>
+	<string name="desDorm3">北京邮电大学学三公寓。</string>
+	<string name="desDorm4">北京邮电大学学四公寓。</string>
+	<string name="desDorm5">北京邮电大学学五公寓。</string>
+	<string name="desDorm6">北京邮电大学学六公寓。</string>
+	<string name="desDorm8">北京邮电大学学八公寓。</string>
+	<string name="desDorm29">北京邮电大学学二十九公寓。</string>
+	<string name="desMarket">北京邮电大学小超市紧靠学一公寓和学十三公寓，为学生平时购物提供便利。</string>
+	<string name="des_jiao4">北京邮电大学教四楼是我校教学楼之一，设有数媒艺术走廊等，集教学科研艺术于一体，充分体现现代化优质教育的内涵。图为教四楼旧貌与新颜对比。</string>
+	<string name="desHongtong_building">北京邮电大学鸿通楼设有邮政储蓄营业厅及部分研究生实验室。</string>
+	<string name="desChina_mobile">北京邮电大学移动营业厅。</string>
+	<string name="des_jiao2">北京邮电大学教二楼除包含多媒体授课教室及部分研究生实验室外，还是信息与通信工程学院院内职员的办公场所。</string>
+	<string name="des_jiao1">北京邮电大学教一楼主要是学校各机构的办公楼。共有四层，主要有教务处、基金会、校友会、人文学院教务处、多媒体英语学习教室等。</string>
+	<string name="des_hospital">北京邮电大学校医院是一所一级甲等综合性医院，高校首批社区卫生服务站和市医保定点医疗机构。院址新建，新楼建筑面积3400平方米，一、二层为门诊，三、四层为内、外科病房，五层为学术会议厅和资料室。设备、人员更新，承担着全校师生、家属和社区近3万人的预防、医疗、保健和社区医疗卫生服务任务。年门、急诊量8万5千人次，健康体检1万人次，计划免疫5万余人次。</string>
+	<string name="des_bookstore">北京邮电大学二手书店是学校内唯一的一家二手书店，主要出售二手书。每学期开学初，前来购置教材的学生非常多。</string>
+	<string name="desStudents_act">北京邮电大学学生活动中心是我校学生举办社团活动的主要场所。</string>
+	<string name="des_shumei">北京邮电大学数字媒体学院。其独特的装修风格也体现了我校数字媒体学院学生恣意轻快的风格。</string>
+	<string name="des_servicebuilding">北京邮电大学综合服务楼主要有学生澡堂、申通快递、联通营业厅等，为学生生活提供便利。</string>
+	<string name="des_newsciencebuilding">北京邮电大学新科研楼。楼内主要是研究生的实验室，也承担部分本科生教学任务。</string>
+	<string name="desCoffeebar">北京邮电大学漫咖啡是紧靠学苑超市的咖啡店，是学生日常休闲的好去处。</string>
+	<string name="des_xueyuan">北京邮电大学学苑超市是校内唯一一家综合性超市。</string>
+	<string name="des_fruit">北京邮电大学水果店位于学苑超市南侧，为校内师生提供新鲜水果。</string>
+	<!--<string name="des_dianxin">北京邮电大学宽广电信技术研究中心，有院士1名，教授8名，副教授5名，讲师8名。主要承担信息论、编码理论、信息处理导论、通信网基础、微机原理与接口技术等教学任务，侧重移动通信和信息网络技术等方面的研究。</string>-->
+	<string name="des_stuffDiningroom">北京邮电大学教工餐厅是一家面向校内外人群的餐厅，适合家庭聚会、朋友聚餐、情侣约会、休闲小憩等。</string>
+	<string name="des_oldDiningroom">北京邮电大学学生食堂是我校最早建成的食堂，其中三层清真餐厅	广受校内学生欢迎。</string>
+	<string name="des_securityOffice">北京邮电大学保卫处主要负责校园治安秩序的管理，与相关部门共同做好学校周边环境的整治，协助公安机关对校园刑事、治安、政治案件进行查破处理；负责学校集体户口的户籍管理及各类证件的办理等工作。</string>
+	<string name="des_basketball">北京邮电大学篮球场工作日主要用于上课，周末全天开放，在这里举办过“篮俱杯”等大型篮球赛事。</string>
+	<string name="des_volleyball">北京邮电大学网球场是对校内师生免费开放的网球运动场，周末全天开放。</string>
+	<string name="des_financeOffice">北京邮电大学财务处主要负责校内财务方面的管理。</string>
+	<string name="des_houqin">北京邮电大学后勤楼共有三层，主要有助学中心、财务科等。</string>
+	<string name="des_natatorium">北京邮电大学游泳馆长50米,分成深水和浅水2个区, 深水2米,浅水1.5米，水温适宜, 大约27~28度,配备有浴室和更衣室，管理完善，安全卫生，馆内宽敞明亮，水质纯净，价格合理，是广大师生健身休闲的优选场所。</string>
+	<string name="des_hall">北京邮电大学科学会堂由大礼堂、控制室、休息室等组成，主要用于召开重要的会议或者承办大型文艺活动等。北邮各届校园歌手大赛、新年晚会等均在此处举办。</string>
+	<string name="des_netcenter">北京邮电大学网络中心是原计算中心扩大校园网管理职能、CAI与电教职能后，组建而成的二级单位。中心下设：办公室、信息开发室、开放计算机实验室、教育技术中心、网络规划管理室。其中开放计算机实验室、教育技术中心、网络规划管理室为部级重点实验室。中心编制51人。具有高职、副高职职称的10人，中职职称11人，初级职称9人。目前承担的主要任务：校园网规划管理、cernet华北地区主结点、中国邮电ATM科学实验网运行、维护与技术支持、CAI开发、与电教、校OA与MIS系统开发、运行与维护、研究生的部分教学与培养、学校公共上机环境的运行与维护。</string>
+	<string name="des_sportsGround">北京邮电大学风雨操场坐落于校园东南角，配备400米标准跑道、足球场及各类健身器材，是师生们平时运动健身的场所，也用于举办大型运动会，在操场西侧的主席台上可以将操场全貌坐收眼底。“风雨”二字正是北邮师生不畏风雨、砥砺向前的真实写照。</string>
+	<string name="des_kindergarten">北京邮电大学幼儿园隶属于后勤处，成立于1956年，距今已有五十多年的历史。该园占地面积3900平方米，环境优美，富有童趣，是一个有着独特办学理念的学前教育摇篮。现设有四个蒙台梭利实验班和七个普通班。现有2—6岁幼儿三百余人，教职员工六十余人，其中高级教师15人，一级教师5人，二级教师3人，具有大专以上学历的教师占总数的90%以上。</string>
+    <string name="west_door">北京邮电大学西门</string>
+	<string name="eest_door">北京邮电大学东门</string>
+	<string name="south_door">北京邮电大学南门</string>
+	<string name="north_door">北京邮电大学北门</string>
+	<string name="mid_door">北京邮电大学中门</string>
+	<string name="mao">北京邮电大学毛主席像</string>
+	<string name="jingguan">北京邮电大学经管楼。内有北京邮电大学就业指导中心，该中心是负责我校博士生、硕士生和本科生的就业事宜以及对在校学生进行从入学到毕业全程就业指导的机构，为我校毕业生提供了切实的服务。</string>
+	<string name="xiaoqinghuazhan">今年是我校60周年华诞，这在我校发展历史上是一个重要的里程碑，是学校拼搏奋进、再创辉煌的新起点。为了表达广大师生对学校的祝福，抒发爱校荣校情感，继承优良传统，展示办学成就，展望美好前景，振奋师生精神，校工会决定举办师生书画、摄影展览，以此为我校60年华诞献上一份贺礼。
+</string>
+	<string name="yepeida">10月18日上午，叶培大先生铜像落成仪式在我校本部校区隆重举行。叶培大院士是著名的电子学家和教育家，北京邮电大学名誉校长。竖立此座铜像，既是对先生杰出成就的铭记和传承，更是一种精神感召，激励着全校师生为北邮的美好明天而奋斗。</string>
+<string name="caichangnian">9月11日上午，蔡长年先生铜像落成仪式在我校本部校区隆重举行。蔡长年先生是著名的电子学家、教育家、中国开展信息论研究的先行者，生前曾任北京邮电大学教授。该铜像的竖立，既是对先生的崇高敬意和深切怀念，更是一种激励着我校全体师生员工为北邮更加美好的未来而努力奋斗的精神感召。</string>
+	<string name="zhoujiongpan">9月10日上午，周炯槃先生铜像落成仪式在我校本部校区隆重举行。周炯槃院士是著名的通信技术专家和教育家，北京邮电大学名誉主任、教授。塑造和安放周先生铜像，是为了缅怀学术大师的丰功伟绩，传承先生为我们留下的宝贵财富，激励我校全体师生员工为学校各项事业的蓬勃发展而努力奋斗。</string>
+	<string name="xunixiaoshiguan">北京邮电大学虚拟校史馆是今年新建的新型展厅，位于图书馆北部，采用一种全新的方式展现了学校60年的历史沿革。馆内技术先进，观感一流，是一个对外宣传和对内展示的重要窗口。</string>
+	<!-- Content descriptions -->
+	<string name="ac_name_image_list">Image List Example</string>
+	<string name="ac_name_image_grid">Image Grid Example</string>
+	<string name="ac_name_image_pager">Image Pager Example</string>
+	<string name="ac_name_image_gallery">Image Gallery Example</string>
+	<string name="label_activity_examples">Activity Examples</string>
+	<string name="menu_item_clear_memory_cache">Clear memory cache</string>
+	<string name="menu_item_clear_disc_cache">Clear disc cache</string>
+	<string name="menu_item_pause_on_scroll">Pause on scroll</string>
+	<string name="menu_item_pause_on_fling">Pause on fling</string>
+	<string name="button_image_list">ListView</string>
+	<string name="button_image_grid">GridView</string>
+	<string name="button_image_pager">ViewPager</string>
+	<string name="button_image_gallery">Gallery</string>
+	<string name="descr_image">Image</string>
+
+	<string name="strPoint">小圆点</string>
+	<string name="strWelLogo">欢迎Logo</string>
+	<string name="strWelcomeToMain">欢迎来到主页</string>
+	<string name="lost">Lost</string>
+	<string name="found">Found</string>
+	<string name="message_search_hint">搜索&#8230;</string>
+
+	<string name="list_no_data_lost">暂时还未有失物信息</string>
+	<string name="list_no_data_found">暂时还未有招领信息</string>
+
+	<string name="title_hint">标题</string>
+	<string name="describe_hint">描述</string>
+	<string name="photo_hint">手机</string>
+
+	<string name="progress_loading">正在获取数据..</string>
+	<string name="title_activity_biaobai">Biaobai</string>
+	<string name="title_activity_add1">AddActivity1</string>
+	<string name="feed_detail">feed详情页面</string>
+	<string name="msg">进入友盟社区</string>
+	<string name="user_info">用户信息页面</string>
+	<string name="search_topic">话题搜索</string>
+	<string name="select_location">话题搜索</string>
+	<string name="follow_topic">话题搜索</string>
+
+	<string name="login_username_hint">请输入用户名&#8230;</string>
+	<string name="login_password_hint">请输入密码&#8230;</string>
+	<string name="login_email_hint">请在此输入密码&#8230;</string>
+	<string name="register">注册</string>
+	<string name="register_txt1">还没有账号？</string>
+	<string name="register_txt2">立即注册 ></string>
+	<string name="login_account">账号 </string>
+	<string name="login_pwd">密码 </string>
+	<string name="login_email">确认密码 </string>
+
+	<string name="main_tab_recent">会话</string>
+	<string name="main_tab_contact">联系人</string>
+	<string name="mian_tab_set">设置</string>
+
+	<string name="xlistview_header_hint_normal">下拉刷新</string>
+	<string name="xlistview_header_hint_ready">松开刷新数据</string>
+	<string name="xlistview_header_hint_loading">正在加载&#8230;</string>
+	<string name="xlistview_header_last_time">上次更新时间：</string>
+	<string name="xlistview_footer_hint_normal">查看更多</string>
+	<string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+	<string name="add_avator">头像</string>
+	<string name="add_nick">昵称</string>
+	<string name="add_name">账号</string>
+	<string name="add_name_hint">请输入昵称&#8230;</string>
+	<string name="add_gender">性别</string>
+
+	<string name="set_notify">接收新消息通知</string>
+	<string name="set_myinfo">个人资料</string>
+	<string name="set_blacklist">黑名单</string>
+	<string name="set_voice">声音</string>
+	<string name="set_vibrate">震动</string>
+	<string name="tips">提示</string>
+
+	<string name="logout">退出登陆</string>
+	<string name="pop_photo">拍照</string>
+	<string name="pop_choose">从手机相册选中</string>
+	<string name="network_tips">当前网络不可用,请检查您的网络!</string>
+	<string name="toast_error_password_null">密码不能为空</string>
+	<string name="toast_error_username_null">用户名不能为空</string>
+	<string name="toast_error_comfirm_password">输入的两次密码不一致</string>
+
+	<string name="blacklist">黑名单</string>
+	<string name="chat">发起会话</string>
+	<string name="add_friend">添加好友</string>
+
+	<string name="send_state">已读</string>
+
+	<string name="longclick_speak">长按说话</string>
+	<string name="picture">照片</string>
+	<string name="camera">拍摄</string>
+	<string name="location">位置</string>
+
+	<string name="black_tips">已添加至黑名单，你将不再收到对方的消息!</string>
+
+	<string name="username">用户名</string>
+	<string name="search">搜索</string>
+
+	<string name="new_friends">新朋友</string>
+
+	<string name="near_people">附近的人</string>
+
+	<string name="voice_up_tips">手指上滑,取消发送</string>
+	<string name="voice_cancel_tips">松开手指，取消发送</string>
+
+	<string name="voice_seconds_tips">还可以说%1$s秒</string>
+
+	<string name="voice_short_tips">录音时间太短</string>
+
+	<string name="show_notice">\t\t\t\t\t自V1.0.6版本开始，应用源码中将不再公开ApplicationId,开发者请自行到官网申请。\n\t\t\t\t\t申请成功之后在应用程序启动页(SplashActivity)进行初始化操作!</string>
+<string name="talk">会话</string>
+	<string name="contact">联系人</string>
+	<string name="settings">设置</string>
+</resources>

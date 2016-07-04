@@ -1,0 +1,2426 @@
+[
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\west_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\west_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainbuilding.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\mainbuilding.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new1.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\new1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue418.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue418.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\begin.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\begin.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gym.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\gym.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_fold_arrow.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\group_fold_arrow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\north_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\north_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40b.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue40b.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_reg_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_reg_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm6.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm6.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_emo_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_contact_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_contact_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_nor.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_button_nor.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_picture_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_picture_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speechsign.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\speechsign.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_setting.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\menu_setting.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_logout_p.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_logout_p.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_background_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_background_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue402.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue402.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emo_delete_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\emo_delete_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\south_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\south_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_emo_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_back_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\houqin.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\houqin.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_button.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bg_button.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue107.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue107.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao3.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\jiao3.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_slash.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\welcome_slash.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue411.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue411.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_arrow_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_arrow_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_more_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_more_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_background.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_background.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hall.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\hall.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_button_right.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\top_button_right.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm9.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm9.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new2.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\new2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_logout_n.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_logout_n.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_true_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_true_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volleyball.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\volleyball.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher1.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\title_bar.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm29.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm29.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security_office.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\security_office.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\info_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm10.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm10.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_msg_search.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_msg_search.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue406.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue406.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao2.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\jiao2.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_comment_emo_bar.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_comment_emo_bar.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buptbackground.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\buptbackground.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_voice_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_voice_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\servicebuilding.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\servicebuilding.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue406.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue406.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fruitstore.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\fruitstore.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm5.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm5.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_address_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue11a.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue11a.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_back_leftpress.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\top_back_leftpress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_more.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_emo_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm11.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm11.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_2.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pai2.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\pai2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\market.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\market.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pai3.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\pai3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_slash.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\welcome_slash.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\netcenter.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\netcenter.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40f.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue40f.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm10.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm10.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_inputbox_focus.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_inputbox_focus.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue056.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue056.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\device_pop_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\device_pop_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pai2.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\pai2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\east_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\east_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pai1.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\pai1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_top_bar.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_top_bar.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue107.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue107.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_msg_search.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_msg_search.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_login_n.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_login_n.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_add_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_add_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sports_ground.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\sports_ground.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_message_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_message_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\market.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\market.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40f.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue40f.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_operate_edit.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\d_operate_edit.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_dialog.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\alert_dialog.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_add_top_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\user_add_top_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_button_rightpress.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\top_button_rightpress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40e.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue40e.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue056.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue056.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_pop_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_pop_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_dialog.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\alert_dialog.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\weixin.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_horizontal_line.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_horizontal_line.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_lable_edit_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\card_lable_edit_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_send_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_input.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_voice_bg_press.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_voice_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jingguanlou.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\jingguanlou.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_bottom_xian.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\pic_bottom_xian.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\confirm.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_input.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_icon_account.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_icon_account.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bupthotel.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bupthotel.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaobailou.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\xiaobailou.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgd3.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bgd3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jingguanlou.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\jingguanlou.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue415.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue415.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue414.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue414.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_1.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_photo.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_photo.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newdiningroom.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\newdiningroom.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40c.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue40c.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_camera_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_camera_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\sign.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_send_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaobailou.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\xiaobailou.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_routine_show.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_routine_show.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mid_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\mid_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yepeida.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\yepeida.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new2.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\new2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\caichangnian.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\caichangnian.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow1.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_icon_password.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_icon_password.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_location_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_location_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_menu.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\left_menu.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue059.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue059.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hall.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\hall.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_true_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_true_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\weixin.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\coffeebar.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\coffeebar.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm29.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm29.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finance_office.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\finance_office.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue416.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue416.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_login_n.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_login_n.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_set_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_set_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue057.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue057.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\coffeebar.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\coffeebar.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new4.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\new4.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_share_nopress.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_share_nopress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_location_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_location_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\houqin.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\houqin.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_share_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_share_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_menu.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\left_menu.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_picture_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_picture_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhoujiongpan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\zhoujiongpan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_true_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_true_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_set_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_set_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_back_leftpress.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\top_back_leftpress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\beiyou.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\beiyou.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_send_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_logo.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_setting.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\menu_setting.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40a.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue40a.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\device_pop_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\device_pop_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue403.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue403.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bs_back_button.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bs_back_button.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_back_left.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\top_back_left.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_reg_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_reg_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_main.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\background_main.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emo_delete_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\emo_delete_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sports_ground.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\sports_ground.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue057.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue057.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm13.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm13.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_comment_emo_bar.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_comment_emo_bar.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_operate_delete.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\d_operate_delete.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\basketball.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\basketball.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_message_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_message_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security_office.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\security_office.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_back_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_back_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\detail.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue421.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue421.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_exit.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\menu_exit.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_voice_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_voice_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue059.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue059.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_bottom_xian.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\pic_bottom_xian.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\west_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\west_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_pop_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_pop_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_icon_password.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_icon_password.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_lable_edit_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\card_lable_edit_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue408.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue408.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\library.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\library.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm11.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm11.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm2.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm2.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_more_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_more_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more_up.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_more_up.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue401.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue401.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_camera_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_camera_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm2.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm2.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\info_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\library.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\library.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_btn_start.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_btn_start.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue403.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue403.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_2.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_back_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm9.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm9.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.PNG",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.PNG"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_background.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_background.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao2.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\jiao2.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue408.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue408.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40c.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue40c.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_picture_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_picture_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\north_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\north_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_bar.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_add_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_add_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue418.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue418.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_left_qp.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_left_qp.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new4.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\new4.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kindergarten.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\kindergarten.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue411.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue411.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_true_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_true_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_bar.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kindergarten.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\kindergarten.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_exit.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\menu_exit.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_pop_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_pop_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_findkey.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\menu_findkey.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\olddiningroom.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\olddiningroom.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_camera_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_camera_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue404.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue404.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\caichangnian.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\caichangnian.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_lable_blue_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\card_lable_blue_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_back_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_back_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xunixiaoshiguan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\xunixiaoshiguan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_emote_selector.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_emote_selector.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue105.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue105.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_add_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_add_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue41f.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue41f.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue421.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue421.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_edit_input.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_edit_input.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\netcenter.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\netcenter.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\beijing.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\beijing.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volleyball.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\volleyball.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_back_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_button_rightpress.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\top_button_rightpress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao4.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\jiao4.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\students_act.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\students_act.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_logout_n.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_logout_n.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xueyuan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\xueyuan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue413.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue413.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao1.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\jiao1.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40a.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue40a.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\title_bar.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_button_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider_horizontal_line.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\divider_horizontal_line.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\olddiningroom.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\olddiningroom.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\beiyou.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\beiyou.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\sign.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_picture_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_picture_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm8.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm8.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_message_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_message_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_message_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_message_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_button_right.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\top_button_right.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_top_bar.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_top_bar.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgd3.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bgd3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm4.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm4.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yepeida.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\yepeida.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pai1.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\pai1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_inputbox_focus.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_inputbox_focus.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newsciencebuilding.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\newsciencebuilding.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_location_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_location_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\input_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhoujiongpan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\zhoujiongpan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emo_delete_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\emo_delete_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_back_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_add_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_add_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue416.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue416.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_3.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\china_mobile.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\china_mobile.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue417.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue417.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue058.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue058.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pai3.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\pai3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_fold_arrow.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\group_fold_arrow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40d.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue40d.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xunixiaoshiguan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\xunixiaoshiguan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\weibo.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaoqinghuazhan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\xiaoqinghuazhan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_horization_line.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_horization_line.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_back_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_back_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_operate_delete.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\d_operate_delete.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mid_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\mid_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speechsign.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\speechsign.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_routine_non.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_routine_non.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue401.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue401.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_routine_show.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_routine_show.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\basketball.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\basketball.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40e.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue40e.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_right_qp.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fruitstore.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\fruitstore.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_background_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_background_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_button_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_n.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_send_n.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm1.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm1.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow1.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_nor.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_button_nor.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hospital.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\hospital.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue413.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue413.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dormforeigner.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dormforeigner.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_more_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_more_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_arrow_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_true_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_true_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_n.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_send_n.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue106.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue106.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_button.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bg_button.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_4.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_4.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newsciencebuilding.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\newsciencebuilding.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_inputbox_nofocus.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_inputbox_nofocus.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookstore.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bookstore.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_camera_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_camera_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speech_menu.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\speech_menu.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue410.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue410.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue405.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue405.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_arrow_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm4.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm4.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_horization_line.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_horization_line.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao4.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\jiao4.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_more.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_login_p.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_login_p.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bupthotel.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bupthotel.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shumei.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\shumei.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_back_nopress.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_back_nopress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\beijing.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\beijing.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue41f.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue41f.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gym.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\gym.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.PNG",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.PNG"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_time_block.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_time_block.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buptbackground.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\buptbackground.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaoqinghuazhan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\xiaoqinghuazhan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new1.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\new1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_location_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_location_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_emo_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_pic2.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_pic2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue11a.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue11a.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_button_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bg_button_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_more_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_more_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emo_delete_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\emo_delete_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_contact_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_contact_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_operate_line.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\d_operate_line.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_logout_p.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_logout_p.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_inputbox_nofocus.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_inputbox_nofocus.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_add_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_photo.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_photo.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speech_menu.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\speech_menu.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\south_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\south_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_pop_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_pop_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prefresh_list_cutline.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\prefresh_list_cutline.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_share_nopress.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_share_nopress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_clear.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_clear.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_clear.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_clear.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stuffdiningroom.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\stuffdiningroom.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_logo.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider_horizontal_line.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\divider_horizontal_line.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new3.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\new3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_findkey.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\menu_findkey.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_voice_bg_press.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_voice_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_set_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_set_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_back_nopress.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_back_nopress.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\natatorium.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\natatorium.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_topbar_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bshare_topbar_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_routine_discover.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_routine_discover.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainbuilding.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\mainbuilding.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_true_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_true_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\servicebuilding.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\servicebuilding.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue405.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue405.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_btn_start.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_btn_start.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue414.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue414.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_main.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\background_main.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_1.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_add_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_add_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\natatorium.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\natatorium.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao3.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\jiao3.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\chat_send_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_login_p.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_login_p.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newdiningroom.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\newdiningroom.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_true_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_true_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm1.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm1.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more_up.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_more_up.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue106.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue106.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_button_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bg_button_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_true_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_true_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\students_act.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\students_act.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm5.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm5.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue415.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue415.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_button_share_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_button_share_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_contact_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_contact_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bookstore.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bookstore.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_reg_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_reg_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\detail.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40b.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue40b.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_add_top_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\user_add_top_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\input.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue410.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue410.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\china_mobile.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\china_mobile.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hongtong_building.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\hongtong_building.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_3.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_left_qp.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_left_qp.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bshare_topbar_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\bshare_topbar_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm6.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm6.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue407.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue407.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue108.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue108.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm3.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm3.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shumei.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\shumei.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\tab_address_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_set_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_set_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue105.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue105.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue409.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue409.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_operate_edit.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\d_operate_edit.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\east_door.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\east_door.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_pic2.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_pic2.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_horizontal_line.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_horizontal_line.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_time_block.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_time_block.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue404.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue404.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_add_bg_n.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_add_bg_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher1.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_contact_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_contact_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\confirm.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prefresh_list_cutline.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\prefresh_list_cutline.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue00e.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue00e.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_add_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_add_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue412.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue412.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hongtong_building.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\hongtong_building.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\weibo.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hospital.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\hospital.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect_press.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stuffdiningroom.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\stuffdiningroom.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue058.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue058.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_icon_account.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\login_icon_account.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_edit_input.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\base_edit_input.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_routine_discover.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_routine_discover.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dormforeigner.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dormforeigner.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_operate_line.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\d_operate_line.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finance_office.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\finance_office.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue40d.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue40d.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xueyuan.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\xueyuan.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_back_left.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\top_back_left.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bg.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\input_bg.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\begin.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\begin.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiao1.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\jiao1.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bs_back_button.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bs_back_button.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_guide_step_4.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\android_guide_step_4.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue407.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue407.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm8.jpg",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\dorm8.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_press.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\btn_send_press.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue402.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue402.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm13.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm13.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_press.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_send_press.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dorm3.jpg",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\dorm3.jpg"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue00e.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue00e.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_action_bar_add_bg_p.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\base_action_bar_add_bg_p.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue409.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue409.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_routine_non.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_routine_non.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue108.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue108.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\exploded-aar\\EguideA\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\card_lable_blue_bg.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\card_lable_blue_bg.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected_press.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected_press.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_reg_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_reg_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat_emote_selector.9.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\bg_chat_emote_selector.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\input.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue417.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\ue417.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_add_n.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\btn_add_n.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_pressed.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ue412.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\ue412.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_right_qp.9.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\src\\main\\res\\drawable-hdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\EguideA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new3.png",
+        "source": "D:\\JavaProject\\workspace2\\EguideA\\app\\src\\main\\res\\drawable-hdpi\\new3.png"
+    },
+    {
+        "merged": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "D:\\JavaProject\\workspace2\\Eguide\\app\\build\\intermediates\\exploded-aar\\Eguide\\umeng_community_library_project\\unspecified\\res\\drawable-hdpi-v4\\umeng_socialize_share_pic.png"
+    }
+]

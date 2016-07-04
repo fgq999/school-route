@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/ic_menu_overflow">
+        <menu >
+            <item
+                android:id="@+id/search_place"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_routine_discover"
+                android:title="@string/search_place"/>
+            <item
+                android:id="@+id/show_route"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_routine_show"
+                android:title="@string/show_route"/>
+            <item
+                android:id="@+id/hide_route"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_routine_non"
+                android:title="@string/hide_route"/>
+            <item
+                android:id="@+id/shot"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_camera"
+                android:title="微搜"/>
+        </menu>
+    </item>
+
+</menu>

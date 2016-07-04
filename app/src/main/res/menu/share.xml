@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="分享"
+        android:icon="@drawable/ic_menu_overflow">
+        <menu >
+            <item
+                android:id="@+id/weibo"
+                android:showAsAction="always"
+                android:title="微博"
+                android:icon="@drawable/weibo"
+                />
+            <item
+                android:id="@+id/weixin"
+                android:showAsAction="always"
+                android:title="微信"
+                android:icon="@drawable/weixin"/>
+        </menu>
+    </item>
+
+</menu>
