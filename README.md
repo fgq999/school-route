@@ -6,7 +6,7 @@
 　　Currently, the project is divided into four functional parts - Campus Navigation, Friends Chat, Posts Communities and Life Assistant , it was integrated into the main interface, four slidable interface . The software user must first log in to register in order to use all the functions with back-end server to complete the docking. More specific functions of each section , the user can optionally be used according to their own needs . <br/> <br/>　　Then we will do a brief description for the various interface of the project.<br/>
 ###Login Main Interface
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/login.png)<br/>
-　　Only by correctly entering a user name and password, the user can log in . Those who have no account should register first。<br/>
+　　Only by correctly entering a user name and password, the user can log in . Those who have no account should register first.<br/>
 　　After a successful login, this App will jump to the main user interface .<br/>
 ###Campus Navigation
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/guide.png)<br/>
