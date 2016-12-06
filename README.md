@@ -26,4 +26,4 @@
 　　The purpose of Life Assistant sector is to provide students some of useful help in life , currently the sector has Lost and Found , Saying Love Wall , BUPT Official Website and Freshman Handbook, in a total of four functions , its scalability is very strong.<br/>
 　　　　![](https://github.com/MiracleHH/Eguide/raw/master/images/lost.png)<br/>
 ##Download Link
-　　[E-guide Android mobile client download](http://ee.inbupt.com/test/hh/E-guide/E-guide.apk)
+　　[E-guide Android mobile client download](http://eebupt.com/test/hh/E-guide/E-guide.apk)
